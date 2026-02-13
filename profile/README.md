@@ -1,6 +1,6 @@
-# BChop
+# BChopLXXXII
 
-vibe coder. building in public. shipping practical AI-first tools for beginners who just want to build.
+🐤 vibe coder. building in public. shipping practical AI-first tools for beginners who just want to build. 🐤
 
 ---
 
